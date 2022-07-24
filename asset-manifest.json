@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.2341eb28.chunk.js",
-    "main.js.map": "/static/js/main.2341eb28.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9190e1af.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9190e1af.js.map",
-    "static/js/2.ec60078d.chunk.js": "/static/js/2.ec60078d.chunk.js",
-    "static/js/2.ec60078d.chunk.js.map": "/static/js/2.ec60078d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.ec60078d.chunk.js.LICENSE.txt": "/static/js/2.ec60078d.chunk.js.LICENSE.txt",
-    "static/media/no_image.22d2aa4d.jpg": "/static/media/no_image.22d2aa4d.jpg",
-    "static/media/react-movie-logo.42955eb6.svg": "/static/media/react-movie-logo.42955eb6.svg",
-    "static/media/search-icon.cd820f5a.svg": "/static/media/search-icon.cd820f5a.svg",
-    "static/media/tmdb_logo.f15b6632.svg": "/static/media/tmdb_logo.f15b6632.svg"
+    "main.js": "/movieDb/static/js/main.e1ef9241.chunk.js",
+    "main.js.map": "/movieDb/static/js/main.e1ef9241.chunk.js.map",
+    "runtime-main.js": "/movieDb/static/js/runtime-main.c2a2056c.js",
+    "runtime-main.js.map": "/movieDb/static/js/runtime-main.c2a2056c.js.map",
+    "static/js/2.ff1967a9.chunk.js": "/movieDb/static/js/2.ff1967a9.chunk.js",
+    "static/js/2.ff1967a9.chunk.js.map": "/movieDb/static/js/2.ff1967a9.chunk.js.map",
+    "index.html": "/movieDb/index.html",
+    "static/js/2.ff1967a9.chunk.js.LICENSE.txt": "/movieDb/static/js/2.ff1967a9.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpg": "/movieDb/static/media/no_image.22d2aa4d.jpg",
+    "static/media/react-movie-logo.42955eb6.svg": "/movieDb/static/media/react-movie-logo.42955eb6.svg",
+    "static/media/search-icon.cd820f5a.svg": "/movieDb/static/media/search-icon.cd820f5a.svg",
+    "static/media/tmdb_logo.f15b6632.svg": "/movieDb/static/media/tmdb_logo.f15b6632.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9190e1af.js",
-    "static/js/2.ec60078d.chunk.js",
-    "static/js/main.2341eb28.chunk.js"
+    "static/js/runtime-main.c2a2056c.js",
+    "static/js/2.ff1967a9.chunk.js",
+    "static/js/main.e1ef9241.chunk.js"
   ]
 }
